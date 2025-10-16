@@ -4,7 +4,7 @@
 
 This project was automatically generated based on the following brief:
 
-> Create a simple calculator web app with basic arithmetic operations (add, subtract, multiply, divide). Include a clean interface with number buttons and operation buttons. Display results clearly.
+> Update the calculator to include memory functions (M+, M-, MR, MC) and add a history of calculations. Keep the existing functionality but enhance it.
 
 ## Description
 
